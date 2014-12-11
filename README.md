@@ -5,7 +5,7 @@ Install Vagrant and librarian-puppet
     include Vagrant (http://vagrantup.com) 
     include librarian-puppet (http://librarian-puppet.com/) 
     
-Clone the git repository.
+Clone the git repository to local disk (need 2GB disk space for each vagrant box)
 
     git clone https://github.com/SydOps/challenge.git
     
