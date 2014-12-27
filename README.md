@@ -1,5 +1,8 @@
 ## Installation on OSX
 
+https://codeship.com/projects/78f956d0-7046-0132-f341-227a26fe7ed7/status?branch=master
+
+
 Install Vagrant and librarian-puppet
 
     include Vagrant (http://vagrantup.com) 
